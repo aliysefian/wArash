@@ -1,0 +1,19 @@
+# WordPress specific
+wp-config.php
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/backup-db/
+/wp-content/backups/
+/wp-content/advanced-cache.php
+/wp-content/wp-cache-config.php
+.htaccess
+*.log
+
+# Database backups
+*.sql
+*.sql.gz
+
+# Local environment files
+local-phpinfo.php
+*.DS_Store

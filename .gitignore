@@ -10,9 +10,9 @@ wp-config.php
 .htaccess
 *.log
 
-# Database backups
-*.sql
-*.sql.gz
+# # Database backups
+# *.sql
+# *.sql.gz
 
 # Local environment files
 local-phpinfo.php
